@@ -33,7 +33,7 @@
  ## Guia de divisão vertical: (https://appliedframeworks.com/user-stories-making-the-vertical-slice/)
  
  1. Escrever um backlog:
-  - Criar 10-20 histórias que nos levem do zero à implementação final.
+  - Criar histórias que nos levem do zero à implementação final.
   - Nós queremos priorizar os impostos por estados (para entregar uma primeira versão ao cliente), pois impostos são legalmente obrigatórios, desconto por preço não é tão importante.
   
 ## Exemplo de formato de história (grande de mais?)
