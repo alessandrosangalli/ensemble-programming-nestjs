@@ -33,7 +33,4 @@
   - Criar histórias que nos levem do zero à implementação final (e exagerar no slicing).
   - Nós queremos priorizar os impostos por estados (para entregar uma primeira versão ao cliente), pois impostos são legalmente obrigatórios, desconto por preço não é tão importante.
   
-## Exemplo de formato de história (grande de mais?)
-- Eu como vendedor
-- Quero calcular o preço de um pedido feito no RS de até R$ 1000.00 reais
-- Para cobrar meu cliente
+
