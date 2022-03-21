@@ -21,11 +21,11 @@
 - Até R$ 15,000.00 ou mais - 15%
    
 ## Imposto por estado
-- RS 6.85%
-- SC 8.00%
-- PR 6.25%
-- SP 4.00%
-- RJ 8.25%
+- RS - 6.85%
+- SC - 8.00%
+- PR - 6.25%
+- SP - 4.00%
+- RJ - 8.25%
 
 # Objetivos
  ## Temos 5 estados e 5 descontos, vamos dividir verticalmente em cerca de 10-20 pedaços, priorizando as funcionalidades que mais agregam valor para o produto.
