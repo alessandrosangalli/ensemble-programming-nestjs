@@ -26,9 +26,6 @@
 - PR - 6.25%
 - SP - 4.00%
 - RJ - 8.25%
-
-# Objetivos
- ## Temos 5 estados e 5 descontos, vamos dividir verticalmente em cerca de 10-20 pedaços, priorizando as funcionalidades que mais agregam valor para o produto.
  
  ## Guia de divisão vertical: (https://appliedframeworks.com/user-stories-making-the-vertical-slice/)
  
