@@ -33,4 +33,7 @@
   - Criar histórias que nos levem do zero à implementação final (e exagerar no slicing).
   - Nós queremos priorizar os impostos por estados (para entregar uma primeira versão ao cliente), pois impostos são legalmente obrigatórios, desconto por preço não é tão importante.
   
+ 2. Desenvolver:
+  - TDD!
+  - YAGNI!
 
