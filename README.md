@@ -12,7 +12,7 @@
 
 **Cálculo:**
 
-- Baseado no preço do item, o valor do pedido recebe um desconto.
+- Baseado no preço do pedido, o valor do pedido recebe um desconto.
 - Baseado no estado do país, o valor do pedido recebe um acréscimo (imposto).
 
 ## Desconto por preço
