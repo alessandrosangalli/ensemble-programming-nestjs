@@ -18,7 +18,7 @@ describe('AppController (e2e)', () => {
    * 1 história pra cada desconto por preço
    * 1 história pra cada imposto por estado
    * Até R$ 1000.00 - 3%
-     Até R$ 5000.00 - 5%
+     Até R$ 5000.00 - 5
      Até R$ 7000.00 - 7%
      Até R$ 10,000.00 - 10%
      Até R$ 15,000.00 ou mais - 15%
