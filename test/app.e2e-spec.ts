@@ -24,7 +24,7 @@ describe('AppController (e2e)', () => {
      Até R$ 15,000.00 ou mais - 15%
    */
 
-  it('Deve retornar a soma dos valores dos itens do pedido', () => {});
+  it('Deve retornar a soma dos valores dos iffftens do pedido', () => {});
 
   it('Deve calcular o valor do imposto para RS', () => {});
 
